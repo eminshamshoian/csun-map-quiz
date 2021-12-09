@@ -6,7 +6,7 @@ Entire Page:
 
 The website uses stricly javascript and no frontend frameworks. The google maps API gets called with the proper styling options so that streen names and building names do not show.
 
-Map API Connection w/Event Listener:
+Map Initialization w/Event Listener:
 ```
 function initMap() {
   map = new google.maps.Map(document.getElementById('map'), {

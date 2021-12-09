@@ -1,6 +1,9 @@
 # csun-map-quiz
 This is an online game made in javascript using the Google Maps API. The game consist of a quiz that asks you to double click on the correct location of the csun buildings on the map.
 
+Link to Websitge:
+https://eminshamshoian.github.io/csun-map-quiz/
+
 Entire Page:
 ![Screen Shot 2021-12-09 at 12 10 49 PM](https://user-images.githubusercontent.com/47337592/145468518-00b0654f-9aa9-4436-96ab-6a133bc1af8a.png)
 
